@@ -1,5 +1,5 @@
 Summary:	alterMIME - a small program which is used to alter MIME-encoded mailpacks
-Summary(pl.UTF-8):   alterMIME - mały program do modyfikowania przesyłek kodowanych MIME
+Summary(pl.UTF-8):	alterMIME - mały program do modyfikowania przesyłek kodowanych MIME
 Name:		altermime
 Version:	0.3.7
 Release:	1
