@@ -1,5 +1,5 @@
 Summary:	alterMIME - a small program which is used to alter MIME-encoded mailpacks
-Summary(pl):	alterMIME - ma³y program do modyfikowania przesy³ek kodowanych MIME
+Summary(pl.UTF-8):   alterMIME - maÅ‚y program do modyfikowania przesyÅ‚ek kodowanych MIME
 Name:		altermime
 Version:	0.3.7
 Release:	1
@@ -23,17 +23,17 @@ What can alterMIME do?
 - Remove attachments based on filename or content-type
 - Replace attachments based on filename
 
-%description -l pl
-alterMIME to ma³y program s³u¿±cy do modyfikowania przesy³ek
+%description -l pl.UTF-8
+alterMIME to maÅ‚y program sÅ‚uÅ¼Ä…cy do modyfikowania przesyÅ‚ek
 kodowanych MIME, takich jak zwykle odbierane przez Infleksa, Xamime
 czy AMaViSa.
 
 alterMIME potrafi:
-- wstawiaæ o¶wiadczenia
-- wstawiaæ dowolne X-nag³ówki
-- modyfikowaæ istniej±ce nag³ówki
-- usuwaæ za³±czniki na podstawie nazwy pliku lub typu (content-type)
-- zastêpowaæ za³±czniki na podstawie nazwy pliku
+- wstawiaÄ‡ oÅ›wiadczenia
+- wstawiaÄ‡ dowolne X-nagÅ‚Ã³wki
+- modyfikowaÄ‡ istniejÄ…ce nagÅ‚Ã³wki
+- usuwaÄ‡ zaÅ‚Ä…czniki na podstawie nazwy pliku lub typu (content-type)
+- zastÄ™powaÄ‡ zaÅ‚Ä…czniki na podstawie nazwy pliku
 
 %prep
 %setup -q
