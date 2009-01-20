@@ -1,14 +1,14 @@
 Summary:	alterMIME - a small program which is used to alter MIME-encoded mailpacks
 Summary(pl.UTF-8):	alterMIME - mały program do modyfikowania przesyłek kodowanych MIME
 Name:		altermime
-Version:	0.3.8
+Version:	0.3.10
 Release:	1
 License:	BSD
 Group:		Networking/Utilities
 # 403
 #Source0:	http://pldaniels.com/altermime/%{name}-%{version}.tar.gz
 Source0:	http://www.pldaniels.com/altermime/%{name}-%{version}.tar.gz
-# Source0-md5:	e9717152d05318731ffbf67e2087af3b
+# Source0-md5:	aaf0ad8029958a2dc6da3abb4dc178c2
 URL:		http://www.pldaniels.com/altermime/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
